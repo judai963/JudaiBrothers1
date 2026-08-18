@@ -1,0 +1,6 @@
+{
+  "name": "Judai Brothers Plumbing",
+  "description": "Phoenix's premier residential and commercial plumbing company. ROC #354554. Transparent 86 flat-rate pricing, 24/7 zero-surge emergency dispatch, Virtual Plumber AI diagnostic assistant, and instant Housecall Pro online booking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
